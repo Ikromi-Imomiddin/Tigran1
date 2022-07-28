@@ -1,0 +1,50 @@
+.Svetafor{
+    width: 100px;
+    height: 270px;
+    background-color: black;
+    border: 1px solid;
+    border-radius: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+.red{
+    width: 60px;
+    height: 60px;
+    border: 1px solid;
+    border-radius: 50%;
+    background-color: red;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.grey{
+    width: 60px;
+    height: 60px;
+    border: 1px solid;
+    border-radius: 50%;
+    background-color: grey;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.green{
+    width: 60px;
+    height: 60px;
+    border: 1px solid;
+    border-radius: 50%;
+    background-color: green;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.yellow{
+    width: 60px;
+    height: 60px;
+    border: 1px solid;
+    border-radius: 50%;
+    background-color: yellow;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.first{
+    display: flex;
+    margin-left: 50px;
+}
